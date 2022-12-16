@@ -17,3 +17,4 @@ while(guess<50):
     elif(guess > answer):
         print('Too high!')
         guess = int(input('Guess again '))
+return
